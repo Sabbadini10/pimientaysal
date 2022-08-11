@@ -1,0 +1,42 @@
+[
+{
+    "id" : "1",
+    "name" : "iphone",
+    "marca" : "13",
+    "precio" :"23",
+    "descuento" : "30",
+    "imagen" : "img.png",
+    "sectio" : "temporada",
+    "categoria": "alta"
+} ,
+{
+    "id" : "2",
+    "name" : "nokia",
+    "marca" : "133",
+    "precio" :"2300",
+    "descuento" : "10",
+    "imagen" : "img2.png",
+    "sectio" : "popular",
+    "categoria": "baja"
+} ,
+{
+    "id" : "3",
+    "name" : "guavei",
+    "marca" : "13344",
+    "precio" :"23200",
+    "descuento" : "15",
+    "imagen" : "img3.png",
+    "sectio" : "popular",
+    "categoria": "media"
+} ,
+{
+    "id" : "4",
+    "name" : "motorola",
+    "marca" : "133",
+    "precio" :"200",
+    "descuento" : "35",
+    "imagen" : "img4.png",
+    "sectio" : "temporada",
+    "categoria": "alta"
+}
+]
