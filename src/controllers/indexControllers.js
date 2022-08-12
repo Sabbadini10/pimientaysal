@@ -3,7 +3,7 @@ const productos = require('../data/productos')
 module.exports = {
     index: (req, res) => {
         return res.render('index', {
-            productos
+            productos: productos
         })
         },
      detalle: (req, res) => {
